@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(38,32): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(38,32): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(39,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(39,31): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  LearningOpenGL.vcxproj -> C:\Users\ka-564\source\repos\LearningOpenGL\x64\Debug\LearningOpenGL.exe
