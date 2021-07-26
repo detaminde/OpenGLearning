@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\ka-564\source\repos\LearningOpenGL\Libraries\include\glad\glad.h(32): message : см. предыдущее определение "APIENTRY"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\shader_c.h(47,40): warning C4101: e: неиспользованная локальная переменная
+  LearningOpenGL.vcxproj -> C:\Users\ka-564\source\repos\LearningOpenGL\x64\Debug\LearningOpenGL.exe
