@@ -1,6 +1,21 @@
 ﻿  Main.cpp
-C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(38,32): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
-C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(38,32): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(39,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
-C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(39,31): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\ka-564\source\repos\LearningOpenGL\Libraries\include\glad\glad.h(32): message : см. предыдущее определение "APIENTRY"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\shader_c.h(61,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(979,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1008,56): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1009,60): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1017,56): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1018,60): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1026,56): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1027,60): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1035,56): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1036,60): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1132,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1133,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1137,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1138,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1140,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1141,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ka-564\source\repos\LearningOpenGL\LearningOpenGL\Main.cpp(1149,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
   LearningOpenGL.vcxproj -> C:\Users\ka-564\source\repos\LearningOpenGL\x64\Debug\LearningOpenGL.exe
